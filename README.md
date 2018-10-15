@@ -31,10 +31,11 @@ This repo contains materials for a spark introduction
 
 ## Outline
 1. AWS Sagemaker orientation
-2. Data types
-3. Loops
-4. Logic
-5. How to import (aka the most important part)
+2. Setting up the spark environment
+3. Reading in data from a file
+4. Using SQL
+5. Database operations
+6. A sample calculation
 
 ### A quick note
 Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
