@@ -15,13 +15,17 @@ This repo contains materials for a spark introduction
   * This link lets you sign into the AWS console
   * See the handout for user/pass
 
-* terminology time
-  * programming langugage vs software distribution
-  * python2 vs python3
+## What is Spark?
+"Apache Spark is an open-source distributed general-purpose cluster-computing framework." ~ wikipedia
+  * cluster programming interface
+  * data parallelization
+  * v1 2014-05-26
+  * v2 2016-07-26
+  * current v2.4
   
 # Goals for Today
-1. Get python running
-2. Get comfortable with python
+1. Get everyone running on spark
+2. Get comfortable with spark
 3. Learn how to look up help
 
 ## Outline
