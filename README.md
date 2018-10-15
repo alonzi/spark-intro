@@ -1,9 +1,6 @@
 # spark-intro
 This repo contains materials for a spark introduction
 
-# python-intro
-uva library workshop on introduction to python
-
 ## Who am I?
 * [Senior Research Data Scientist with the Data Science Institute and UVA Library](https://dsi.virginia.edu/people/peter-alonzi)
 * I like to be interrupted with questions! Please jump right in.
@@ -11,11 +8,9 @@ uva library workshop on introduction to python
 ## Welcome to the UVA Library
 * [Research Data Services](https://data.library.virginia.edu/)
 * [Workshop Series](https://data.library.virginia.edu/training/)
-  * Introduction to R (Jenn Huck)	Thursday, 9/6	10:00 – 11:30	Brown 133
-  * Introduction to Python (Erich Purpur)	Wednesday, 9/26	10:00 – 11:30	Brown 133
-  * Introduction to Git/GitHub (Pete Alonzi)	Tuesday, 10/2	14:00 – 16:00	Brown 133
+  * Data Storage Best Practices (Bill Corey)	Tuesday, 11/6	14:00 – 15:30	Brown 133
   
-## Getting Python (this will take some time)
+## Getting Spark 
 * [Windows](https://www.anaconda.com/download/#windows)
 * [Mac](https://www.anaconda.com/download/#macos)
 
