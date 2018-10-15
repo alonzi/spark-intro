@@ -13,7 +13,8 @@ This repo contains materials for a spark introduction
 ## Getting Spark 
 * [Amazon Web Services Sagemaker](https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMOATPLHVSJ563XQ&X-Amz-Date=2018-10-15T15%3A37%3A38.105Z&X-Amz-Signature=16712fc21b036c069bd01eb7d77e0ea3bfc2db6308ea89c567b58c63f917f030&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&nc2=h_ct&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fnc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgs%2523%26isauthcode%3Dtrue&response_type=code&src=header-signin&state=hashArgs%23)
   * This link lets you sign into the AWS console
-  * See the handout for user/pass
+    * Account ID = open-data-lab
+  * See the handout for IAM user name / password
 
 ## What is Spark?
 "Apache Spark is an open-source distributed general-purpose cluster-computing framework." ~ wikipedia
