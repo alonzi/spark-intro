@@ -29,7 +29,7 @@ This repo contains materials for a spark introduction
 3. Learn how to look up help
 
 ## Outline
-1. Strings and Functions
+1. AWS Sagemaker orientation
 2. Data types
 3. Loops
 4. Logic
