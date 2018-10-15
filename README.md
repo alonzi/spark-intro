@@ -37,23 +37,12 @@ This repo contains materials for a spark introduction
 5. Database operations
 6. A sample calculation
 
-### A quick note
-Today we are working on python. However there is some knowledge of programming that is required. Don't worry if you don't know it, please ask questions. I will do my best to answer them. And I will also do my best to indicate when something is a python specific detail and when it is a programming in general item.
 
-## A brief history
-* Designed by [Guido van Rossum](https://www.google.com/search?q=google+image+search+guido+van+rossum&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE_eGK6KHdAhXrRd8KHUzBDHsQ_AUICigB&biw=1440&bih=697)
-* version 1.0 1994
-* version 2.0 2000
-* version 3.0 2008 (not widely adopted until a few years ago)
-* [logo](https://www.google.com/search?q=python+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi9xN-J8aHdAhVBMt8KHT-WDEEQ_AUICigB&biw=1440&bih=697)
-* [anaconda logo](https://www.google.com/search?q=anaconda+logo&safe=off&rlz=1C5CHFA_enUS690US690&source=lnms&tbm=isch&sa=X&ved=0ahUKEwin88Gf8aHdAhUhiOAKHeGLBHYQ_AUICigB&biw=1440&bih=697)
 
-# Let's Get to It (hopefully everyone is done installing)
-* open spyder [it looks like this](spyder.png)
-  * text editor
-  * variable explorer
-  * console
-  * control icons
+# Using Spark powered by AWS
+* [login to the AWS console](https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMOATPLHVSJ563XQ&X-Amz-Date=2018-10-15T15%3A37%3A38.105Z&X-Amz-Signature=16712fc21b036c069bd01eb7d77e0ea3bfc2db6308ea89c567b58c63f917f030&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&nc2=h_ct&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fnc2%3Dh_ct%26src%3Dheader-signin%26state%3DhashArgs%2523%26isauthcode%3Dtrue&response_type=code&src=header-signin&state=hashArgs%23)
+* search services for 'sagemaker'
+* 
   
 ## Strings
 * A string is a 'string' of characters
