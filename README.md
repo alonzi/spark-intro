@@ -11,8 +11,7 @@ This repo contains materials for a spark introduction
   * Data Storage Best Practices (Bill Corey)	Tuesday, 11/6	14:00 – 15:30	Brown 133
   
 ## Getting Spark 
-* [Windows](https://www.anaconda.com/download/#windows)
-* [Mac](https://www.anaconda.com/download/#macos)
+* [Data Bricks](https://databricks.com/)
 
 * terminology time
   * programming langugage vs software distribution
