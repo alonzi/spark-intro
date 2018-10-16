@@ -48,11 +48,12 @@ This repo contains materials for a spark introduction
 2. Ask a friend to review it
 
 * Beginning
-  * 
+  * load your data from a project you are working on
+  * perform some SQL work on that dataset
 * Intermediate
-  * 
+  * take advantage of scale data handling in spark (use a large data set and eg: HDFS format)
 * Expert
-  * 
+  * look up the api for machine learning and train a model
 
 
 
