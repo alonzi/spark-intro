@@ -1,4 +1,4 @@
-# spark-intro
+# spark-intro (https://github.com/alonzi/spark-intro)
 This repo contains materials for a spark introduction
 
 ## Who am I?
